@@ -5,10 +5,10 @@
 [![GitHub](https://img.shields.io/github/license/LeadShadow/hw1web?&style=plastic)](https://github.com/LeadShadow/hw1web/blob/main/LICENSE)
 ---
 
-#### *I have realized classes which serialize some text into format json or pickle*
+#### I have realized classes which serialize some text into format json or pickle
 
 
-#### *Also, I have realized class Meta which set ordinal number to derivatives classes*
+#### Also, I have realized class Meta which set ordinal number to derivatives classes
 
 ---
 ### Author
